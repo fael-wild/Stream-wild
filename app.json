@@ -13,47 +13,58 @@
     "env": {
         "API_ID": {
             "description": "your APP_ID from my.telegram.org",
-            "required": true
+            "required": true,
+      "value": "5218924"
         },
         "API_HASH": {
             "description": "your API_HASH from my.telegram.org",
-            "required": true
+            "required": true,
+      "value": "60e501dde8e9cb629069af3dfb4eba9e"
         },
         "BOT_TOKEN": {
             "description": "your bot token from @botfather",
-            "required": true
+            "required": true,
+      "value": "1959307337:AAGT-hab2eukJmg27jmfnEfxF8F2u9GcgVk"
         },
         "BOT_USERNAME": {
             "description": "your bot username from @botfather",
-            "required": true
+            "required": true,
+      "value": "Nobarskuy_bot"
         },
         "ASSISTANT_NAME": {
             "description": "fill with the assistant username account without @",
-            "required": true
+            "required": true,
+      "value": "secretchatbots"
         },
         "SESSION_NAME": {
             "description": "fill with the pyrogram String Session",
-            "required": true
+            "required": true,
+      "value": ""
         },
         "SUDO_USERS": {
             "description": "list of user ids to be added to sudo member list",
-            "required": true
+            "required": true,
+      "value": "1727328231"
         },
         "DURATION_LIMIT": {
             "description": "maximum duration limit for downloadable videos (in minutes)",
-            "required": true
+            "required": true,
+      "value": "200"
         },
         "GROUP_NAME": {
             "description": "fill with your group username without @",
-            "required": true
+            "required": true,
+      "value": "wildentourageni"
         },
         "CHANNEL_NAME": {
             "description": "fill with your channel username without @",
-            "required": true
+            "required": true,
+      "value": "letsings"
         },
         "OWNER_NAME": {
             "description": "fill with your telegram account username without @",
-            "required": true
+            "required": true,
+      "value": "FuckTheRulesWild"
         }
     },
     "addons": [],

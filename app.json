@@ -8,63 +8,52 @@
         "video stream"
     ],
     "website": "https://t.me/levinachannel",
-    "repository": "https://github.com/levina-lab/video-stream",
+    "repository": "https://github.com/fael-wild/Stream-wild",
     "success_url": "https://t.me/dlwrml",
     "env": {
         "API_ID": {
             "description": "your APP_ID from my.telegram.org",
-            "required": true,
-      "value": "5218924"
+            "required": true
         },
         "API_HASH": {
             "description": "your API_HASH from my.telegram.org",
-            "required": true,
-      "value": "60e501dde8e9cb629069af3dfb4eba9e"
+            "required": true
         },
         "BOT_TOKEN": {
             "description": "your bot token from @botfather",
-            "required": true,
-      "value": "1959307337:AAGT-hab2eukJmg27jmfnEfxF8F2u9GcgVk"
+            "required": true
         },
         "BOT_USERNAME": {
             "description": "your bot username from @botfather",
-            "required": true,
-      "value": "Nobarskuy_bot"
+            "required": true
         },
         "ASSISTANT_NAME": {
             "description": "fill with the assistant username account without @",
-            "required": true,
-      "value": "secretchatbots"
+            "required": true
         },
         "SESSION_NAME": {
             "description": "fill with the pyrogram String Session",
-            "required": true,
-      "value": "BQBuijBhNiy52hlT0Q3dg5xW7cdOfUZ_CkYvuH7xtDAg6yn59P5h6rjMK8IaU8y9Ai-DIgMFsNag4s4LvhTPpnp5MDx5sNeEPCx9jR2GW4as4wGKFL5-OavbPK--gJ8R1TQumpa13PxM0P_xcm47kmVr5JZNpRqhnWV5-uU8UdNiAtjZZ2ajjJpw2ecFpA4ELAi8TkO0RNdCiJiOV13qmHGIrRzlJbVVH6MVDUk8gLpJG_zOUNvmaINPzsqIGdYtLzHgQjk-xWpLaOFlHHvuSR1xtCcHXpJpIL0Rl4anXnzwx9tflF4haWC5JTYiRT4gB2dI_DyAwetz939XrSsiOWR0ZvTv5wA"
+            "required": true
         },
         "SUDO_USERS": {
             "description": "list of user ids to be added to sudo member list",
-            "required": true,
-      "value": "1177830308"
+            "required": true
         },
         "DURATION_LIMIT": {
             "description": "maximum duration limit for downloadable videos (in minutes)",
-            "required": true,
-      "value": "400"
+            "required": true
         },
         "GROUP_NAME": {
             "description": "fill with your group username without @",
-            "required": true,
-      "value": "wildentourageni"
+            "required": true
         },
         "CHANNEL_NAME": {
             "description": "fill with your channel username without @",
-            "required": true,
-      "value": "letsings"
+            "required": true
         },
         "OWNER_NAME": {
             "description": "fill with your telegram account username without @",
-            "required": true,
-      "value": "FuckTheRulesWild"
+            "required": true
         }
     },
     "addons": [],

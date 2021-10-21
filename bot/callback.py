@@ -76,6 +76,7 @@ Client Library and Framework in Pure Python for Users and Bots.__
 🤵🏻 » [Zxce3](https://github.com/Zxce3)
 🤵🏻 » [Tofik Denianto](https://github.com/tofikdn)
 🤵🏻 » [Shohih Abdul](https://github.com/DoellBarr)
+🤵🏻 » [FAEL WILD](https://github.com/fael-wild)
 
 __This bot licensed under GNU-GPL 3.0 License__""",
         reply_markup=InlineKeyboardMarkup(
@@ -123,7 +124,7 @@ async def cblist(_, query: CallbackQuery):
 » /rmw - remove all downloaded raw files
 » /leaveall - order assistant leave from all group
 
-⚡ __Maintained by Veez Project Team__""",
+⚡ __Maintained by FAEL WILD__""",
         reply_markup=InlineKeyboardMarkup(
             [[
                 InlineKeyboardButton(

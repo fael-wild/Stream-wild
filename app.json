@@ -1,15 +1,15 @@
 {
-    "name": "Veez Video Stream Bot",
+    "name": "Fael Wild Stream Bot",
     "description": "telegram bot for streaming video trought the telegram group video chat, powered by pytgcalls and pyrogram",
-    "logo": "https://telegra.ph/file/103a5208bb1698a8b33de.png",
+    "logo": "https://telegra.ph/file/68a19410d4deac0f909b2.jpg",
     "keywords": [
         "pytgcalls",
         "telegram bot",
         "video stream"
     ],
-    "website": "https://t.me/levinachannel",
+    "website": "https://t.me/letsings",
     "repository": "https://github.com/fael-wild/Stream-wild",
-    "success_url": "https://t.me/dlwrml",
+    "success_url": "https://t.me/FuckTheRulesWild",
     "env": {
         "API_ID": {
             "description": "your APP_ID from my.telegram.org",

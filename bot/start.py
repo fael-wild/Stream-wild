@@ -56,7 +56,9 @@ async def start(_, m: Message):
                         "📣 Channel", url="https://t.me/letsings")
                 ], [
                     InlineKeyboardButton(
-                        "👩🏻‍💻 Developer", url="https://t.me/FuckTheRulesWild")
+                        "👩🏻‍💻 Developer", url="https://t.me/FuckTheRulesWild"),
+                    InlineKeyboardButton(
+                        "📣 repo", url="https://github.com/fael-wild/Stream-wild")
                 ], [
                     InlineKeyboardButton(
                         "📚 All Command List", callback_data="cblist")
